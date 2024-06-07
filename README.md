@@ -1,12 +1,8 @@
 # 💫 About Me:
-👋 Hello there! I'm Piyush, a passionate machine learning developer and tech enthusiast. Welcome to my GitHub profile!
+Hello there! I'm Piyush, Welcome to my GitHub profile!
 
 About Me
-💻 I'm deeply interested in all things related to machine learnin development, Deep learning, from web applications to data science.
-🌱 I’m currently learning and exploring new technologies like NLP to expand my skills and knowledge.
-🔭 I’m always working on personal projects, experimenting with different programming languages and frameworks.
-📚 I enjoy sharing my knowledge and experience through writing articles and tutorials on my blog.
-🤝 I'm open to collaboration and contributions on interesting projects. Feel free to reach out to me!
+From web applications to deep learning, I am passionate about machine learning and deep learning. I am currently exploring Natural Language Processing (NLP) and other emerging technologies to expand my skill set. Engaged in constant personal projects, I experiment with a variety of programming languages and frameworks, pushing the boundaries of innovation. I enjoy sharing knowledge through blog articles and tutorials. As a collaborator and contributor to intriguing projects, I am ecstatic about collaborating and contributing. Don't hesitate to reach out; I'm always looking for new partnerships and opportunities.
 
 # My Interests: 
 Web Development
