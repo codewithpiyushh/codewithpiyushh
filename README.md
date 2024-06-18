@@ -7,7 +7,7 @@ From web applications to deep learning, I am passionate about machine learning a
 # My Interests: 
 Web Development   
 Data Structures and Algorithum    
-Machine Learning and AI     
+Machine Learning and AI         
 Data Science   
 Open Source Contributions    
 
