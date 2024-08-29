@@ -5,10 +5,10 @@ About Me
 From web applications to deep learning, I am passionate about machine learning and deep learning. I am currently exploring Natural Language Processing (NLP) and other emerging technologies to expand my skill set. Engaged in constant personal projects, I experiment with a variety of programming languages and frameworks, pushing the boundaries of innovation. I enjoy sharing knowledge through blog articles and tutorials. As a collaborator and contributor to intriguing projects, I am ecstatic about collaborating and contributing. Don't hesitate to reach out; I'm always looking for new partnerships and opportunities.
 
 # My Interests: 
-Web Development   
-Data Structures and Algorithum    
-Machine Learning and AI         
-Data Science   
+Machine Learning         
+Deep Learning        
+Natural Language Processing       
+Open CV                   
 Open Source Contributions    
 
 ## 🌐 Let's Connect:
