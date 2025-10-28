@@ -15,7 +15,7 @@ Natural Language Processing
 
 ## 🌐 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyushhh-singhh/)    
-piyushhhsinghh@gmail.com
+ai.piyushkumar0707@gmail.com
 
 
 # 💻 Tech Stack:
