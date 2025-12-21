@@ -1,7 +1,9 @@
-# 💫 About Me:
-Hello there! I'm Piyush, Welcome to my GitHub profile!
 
-About Me
+<img width="2048" height="512" alt="Gemini_Generated_Image_h84g7vh84g7vh84g" src="https://github.com/user-attachments/assets/c8fab03e-a3ad-479f-b29a-de2d0ea410e1" />
+
+Hello there! I'm Piyush Kumar.
+
+
 As a final-year B.Tech student in Artificial Intelligence & Data Science at GGSIPU, I am passionate about leveraging technology to solve real-world challenges through innovation, AI, and data-driven decision-making. My journey has been enriched with diverse hands-on experiences, impactful projects, and leadership roles.
 
 # My Interests: 
