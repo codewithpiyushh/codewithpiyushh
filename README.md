@@ -4,7 +4,7 @@
 
 
 
-![Hi, I M Piyush Kumar (1)](https://github.com/user-attachments/assets/ffda4f3d-2911-4232-9d02-9de1b75ac2df)
+![Hi, I M Piyush Kumar](https://github.com/user-attachments/assets/f3ce0a23-9992-49be-af15-e950a3f0885b)
 
 
 
