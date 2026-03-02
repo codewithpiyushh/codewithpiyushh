@@ -22,7 +22,7 @@ As a final-year B.Tech student in Artificial Intelligence & Data Science at GGSI
 | Generative AI | <img src="https://img.shields.io/badge/RAG-6A1B9A?style=for-the-badge"/> <img src="https://img.shields.io/badge/Agentic%20Architecture-283593?style=for-the-badge"/> <img src="https://img.shields.io/badge/MCP%20Server-455A64?style=for-the-badge"/> <img src="https://img.shields.io/badge/LLM%20Models-8E24AA?style=for-the-badge"/> |
 | Vector Databases | <img src="https://img.shields.io/badge/ChromaDB-5E35B1?style=for-the-badge"/> <img src="https://img.shields.io/badge/Pinecone-0F9D58?style=for-the-badge"/> |
 | AI / ML Concepts | <img src="https://img.shields.io/badge/Machine%20Learning-1976D2?style=for-the-badge"/> <img src="https://img.shields.io/badge/Deep%20Learning-D32F2F?style=for-the-badge"/> <img src="https://img.shields.io/badge/NLP-7B1FA2?style=for-the-badge"/> <img src="https://img.shields.io/badge/MLOps-00897B?style=for-the-badge"/> <img src="https://img.shields.io/badge/Vector%20Embeddings-512DA8?style=for-the-badge"/> <img src="https://img.shields.io/badge/Fine--Tuning-C2185B?style=for-the-badge"/> |
-| DevOps | <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> |
+| DevOps | <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=red"/> |
 
 ## 🖥 Coding Profiles
 <p align="center">
