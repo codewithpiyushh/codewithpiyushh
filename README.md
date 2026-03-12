@@ -8,7 +8,9 @@
 
 
 
-As a final-year B.Tech student in Artificial Intelligence & Data Science at GGSIPU, I am passionate about leveraging technology to solve real-world challenges through innovation, AI, and data-driven decision-making. My journey has been enriched with diverse hands-on experiences, impactful projects, and leadership roles.
+
+<h2 align="center">AI Engineer | Building Generative AI | RAG Systems | Multi-Agent Architectures</h2>
+
 
 ## 🛠️ Skills 
 
